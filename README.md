@@ -74,3 +74,6 @@ O NeuroBloom:
 - Representa uma aplicação prática do IoT voltada ao impacto humano
 
 No futuro do trabalho, soluções como esta se tornam essenciais para integrar tecnologia e saúde mental.
+
+
+<img width="491" height="628" alt="image" src="https://github.com/user-attachments/assets/7178aa7e-4417-4e41-aaa8-36956b73cbcf" />
